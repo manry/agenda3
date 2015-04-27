@@ -93,7 +93,7 @@
     </Component>
     <Component class="javax.swing.JButton" name="jButton4">
       <Properties>
-        <Property name="text" type="java.lang.String" value="jButton4"/>
+        <Property name="text" type="java.lang.String" value="Ordenar"/>
       </Properties>
     </Component>
   </SubComponents>

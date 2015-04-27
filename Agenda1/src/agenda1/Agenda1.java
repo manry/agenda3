@@ -45,7 +45,7 @@ public class Agenda1 extends javax.swing.JFrame {
 
         jButton3.setText("Borrar");
 
-        jButton4.setText("jButton4");
+        jButton4.setText("Ordenar");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
